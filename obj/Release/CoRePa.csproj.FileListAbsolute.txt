@@ -1,0 +1,54 @@
+F:\Work\CoRePa v3\bin\Release\CoRePa v4.exe.config
+F:\Work\CoRePa v3\bin\Release\CoRePa v4.exe
+F:\Work\CoRePa v3\bin\Release\CoRePa v4.pdb
+F:\Work\CoRePa v3\obj\Release\CoPa_Program.CoRePa.resources
+F:\Work\CoRePa v3\obj\Release\CoRePa.Properties.Resources.resources
+F:\Work\CoRePa v3\obj\Release\CoRePa.csproj.GenerateResource.Cache
+F:\Work\CoRePa v3\obj\Release\CoRePa.csproj.CoreCompileInputs.cache
+F:\Work\CoRePa v3\obj\Release\CoRePa v4.exe
+F:\Work\CoRePa v3\obj\Release\CoRePa v4.pdb
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v5\obj\Release\CoPa_Program.CoRePa.resources
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v5\obj\Release\CoRePa.Properties.Resources.resources
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v5\obj\Release\CoRePa.csproj.GenerateResource.Cache
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v5\obj\Release\CoRePa.csproj.CoreCompileInputs.cache
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v5\bin\Release\CoRePa v5.1.exe.config
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v5\bin\Release\CoRePa v5.1.exe
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v5\bin\Release\CoRePa v5.1.pdb
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v5\obj\Release\CoRePa v5.1.exe
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v5\obj\Release\CoRePa v5.1.pdb
+F:\Work\Stratagem\CoRePa v6\obj\Release\CoPa_Program.CoRePa.resources
+F:\Work\Stratagem\CoRePa v6\obj\Release\CoRePa.Properties.Resources.resources
+F:\Work\Stratagem\CoRePa v6\obj\Release\CoRePa.csproj.GenerateResource.Cache
+F:\Work\Stratagem\CoRePa v6\obj\Release\CoRePa.csproj.CoreCompileInputs.cache
+F:\Work\Stratagem\CoRePa v6\bin\Release\CoRePa v6.1.exe.config
+F:\Work\Stratagem\CoRePa v6\bin\Release\CoRePa v6.1.exe
+F:\Work\Stratagem\CoRePa v6\bin\Release\CoRePa v6.1.pdb
+F:\Work\Stratagem\CoRePa v6\obj\Release\CoRePa v6.1.exe
+F:\Work\Stratagem\CoRePa v6\obj\Release\CoRePa v6.1.pdb
+F:\Work\Stratagem\CoRePa v6.1\bin\Release\CoRePa v6.1.exe.config
+F:\Work\Stratagem\CoRePa v6.1\bin\Release\CoRePa v6.1.exe
+F:\Work\Stratagem\CoRePa v6.1\bin\Release\CoRePa v6.1.pdb
+F:\Work\Stratagem\CoRePa v6.1\obj\Release\CoPa_Program.CoRePa.resources
+F:\Work\Stratagem\CoRePa v6.1\obj\Release\CoRePa.Properties.Resources.resources
+F:\Work\Stratagem\CoRePa v6.1\obj\Release\CoRePa.csproj.GenerateResource.Cache
+F:\Work\Stratagem\CoRePa v6.1\obj\Release\CoRePa.csproj.CoreCompileInputs.cache
+F:\Work\Stratagem\CoRePa v6.1\obj\Release\CoRePa v6.1.exe
+F:\Work\Stratagem\CoRePa v6.1\obj\Release\CoRePa v6.1.pdb
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v7.1\bin\Release\CoRePa v7.1.exe.config
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v7.1\bin\Release\CoRePa v7.1.exe
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v7.1\bin\Release\CoRePa v7.1.pdb
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v7.1\obj\Release\CoPa_Program.CoRePa.resources
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v7.1\obj\Release\CoRePa.Properties.Resources.resources
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v7.1\obj\Release\CoRePa.csproj.GenerateResource.Cache
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v7.1\obj\Release\CoRePa.csproj.CoreCompileInputs.cache
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v7.1\obj\Release\CoRePa v7.1.exe
+C:\Users\StratTrade\Documents\Stratagem CoPa Cloud\CoRePa v7.1\obj\Release\CoRePa v7.1.pdb
+F:\Work\Stratagem\CoRePa v7.2\bin\Release\CoRePa v7.1.exe.config
+F:\Work\Stratagem\CoRePa v7.2\bin\Release\CoRePa v7.1.exe
+F:\Work\Stratagem\CoRePa v7.2\bin\Release\CoRePa v7.1.pdb
+F:\Work\Stratagem\CoRePa v7.2\obj\Release\CoPa_Program.CoRePa.resources
+F:\Work\Stratagem\CoRePa v7.2\obj\Release\CoRePa.Properties.Resources.resources
+F:\Work\Stratagem\CoRePa v7.2\obj\Release\CoRePa.csproj.GenerateResource.Cache
+F:\Work\Stratagem\CoRePa v7.2\obj\Release\CoRePa.csproj.CoreCompileInputs.cache
+F:\Work\Stratagem\CoRePa v7.2\obj\Release\CoRePa v7.1.exe
+F:\Work\Stratagem\CoRePa v7.2\obj\Release\CoRePa v7.1.pdb
